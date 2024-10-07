@@ -1,0 +1,139 @@
+body{
+	margin: 0;
+}
+.head{
+	background-color: #47372F;
+	margin-top: 0px;
+}
+
+.header1{
+	color: black;
+	float: left;
+	font-size: 12PX;
+
+}
+.nav{
+	color: orange;
+	float: right;
+	margin-top: 20px;
+	word-spacing: 25px;
+	margin-right: 10px;
+}
+
+.button {
+  background-color: orange;  
+  border-radius:20px ;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: #47372f; 
+  color:orange ; 
+  border: 1px solid;
+}
+
+.button1:hover {
+  background-color: orange;
+  color: white;
+}
+
+.button2 {
+  background-color: #47372f ; 
+  color: orange; 
+  border: 1px solid;
+}
+
+.button2:hover {
+  background-color: orange;
+  color: white;
+}
+
+.button3 {
+  background-color:  #47372f; 
+  color: orange; 
+  border: 1px solid;
+}
+
+.button3:hover {
+  background-color: orange;
+  color: white;
+}
+
+.button4 {
+  background-color:  #47372f;
+  color: orange;
+  border: 1px solid ;
+}
+
+.button4:hover {
+  background-color: orange;
+  color: white;
+}
+
+.button5 {
+	background-color:  #47372f; 
+  color: orange; 
+  border: 1px solid;
+  
+}
+
+.button5:hover {
+  background-color: orange;
+  color: white;
+}
+
+.folio{
+	color: orange;
+}
+.gal img{
+  margin-left: 50px;
+  width: 200px;
+  margin-top: 90px;
+  
+ }
+
+#galimg{
+  padding: 100px;
+}
+
+
+.imgnight img{
+  margin-left: 50px;
+  width: 200px;
+  
+
+}
+  
+#night{
+  padding: 100px;
+  margin-top: 20px;
+
+}
+
+
+
+.imgself img{
+  margin-left: 50px;
+  width: 200px;
+  
+
+ }  
+#self{
+  padding:50px;
+  margin-left: 50px;
+}
+
+.imge:hover{
+  border: 1px solid orange;
+  transition: 0.5;
+  color: orange;
+  transform: scale(1.5);
+}

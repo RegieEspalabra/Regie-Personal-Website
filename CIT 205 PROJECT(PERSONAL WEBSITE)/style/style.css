@@ -1,0 +1,138 @@
+body{
+	margin: 0px;
+}
+.head{
+	background-color: #47372F;
+
+	}
+
+.header1{
+	color: black;
+	float: left;
+
+}
+.nav{
+	color: orange;
+	float: right;
+	margin-top: 20px;
+	word-spacing: 25px;
+	margin-right: 10px;
+}
+
+.button {
+  background-color: orange;  
+  border-radius:20px ;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: #47372f; 
+  color:orange ; 
+  border: 1px solid;
+}
+
+.button1:hover {
+  background-color: orange;
+  color: white;
+}
+
+.button2 {
+  background-color: #47372f ; 
+  color: orange; 
+  border: 1px solid;
+}
+
+.button2:hover {
+  background-color: orange;
+  color: white;
+}
+
+.button3 {
+  background-color:  #47372f; 
+  color: orange; 
+  border: 1px solid;
+}
+
+.button3:hover {
+  background-color: orange;
+  color: white;
+}
+
+.button4 {
+  background-color:  #47372f;
+  color: orange;
+  border: 1px solid ;
+}
+
+.button4:hover {
+  background-color: orange;
+  color: white;
+}
+
+.button5 {
+	background-color:  #47372f; 
+  color: orange; 
+  border: 1px solid;
+  
+}
+
+.button5:hover {
+  background-color: orange;
+  color: white;
+}
+
+.folio{
+	color: orange;
+}
+.para1{
+	position: absolute;
+	margin-top: 240px;
+	margin-left: 150PX;
+	font-family: sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	
+
+}
+.regie{
+	width: 800px;
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 450px;
+	
+}
+
+.regie:hover{
+   cursor: pointer;
+   opacity: 0.8;
+   transition-duration: 0.5s;
+}
+.name{
+	color: orange;
+}
+.me{
+	position: absolute;
+	margin-top: 300px;
+	font-weight: bold;
+	margin-left: 250px;
+	font-size: 15px;
+}
+.footer{
+	margin-top: 610px;
+	position: absolute;
+	width: 1000px;
+
+}
+.span{
+    color: orange;
+    text-align: center;
+    width: 500px;
+ }

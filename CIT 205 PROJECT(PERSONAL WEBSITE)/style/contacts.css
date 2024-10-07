@@ -1,0 +1,199 @@
+body{
+	margin: 0;
+}
+.head{
+	background-color: #47372F;
+	margin-top: 0px;
+}
+
+.header1{
+	color: black;
+	float: left;
+	font-size: 12px;
+
+}
+.nav{
+	color: orange;
+	float: right;
+	margin-top: 20px;
+	word-spacing: 25px;
+	margin-right: 10px;
+}
+.button {
+  background-color: orange;  
+  border-radius:20px ;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: #47372f; 
+  color:orange ; 
+  border: 1px solid;
+}
+
+.button1:hover {
+  background-color: orange;
+  color: white;
+}
+
+.button2 {
+  background-color: #47372f ; 
+  color: orange; 
+  border: 1px solid;
+}
+
+.button2:hover {
+  background-color: orange;
+  color: white;
+}
+
+.button3 {
+  background-color:  #47372f; 
+  color: orange; 
+  border: 1px solid;
+}
+
+.button3:hover {
+  background-color: orange;
+  color: white;
+}
+
+.button4 {
+  background-color:  #47372f;
+  color: orange;
+  border: 1px solid ;
+}
+
+.button4:hover {
+  background-color: orange;
+  color: white;
+}
+
+.button5 {
+	background-color:  #47372f; 
+  color: orange; 
+  border: 1px solid;
+  
+}
+
+.button5:hover {
+  background-color: orange;
+  color: white;
+}
+
+.folio{
+	color: orange;
+}
+.fa:hover {
+  opacity: 0.9;
+        }
+.icons{
+  margin-left: 40px;
+  margin-top: 70px;
+  position: absolute;
+  margin-left: 80px;
+
+}
+.fa-instagram {
+  background: pink;
+  color: white;
+  padding: 20px;
+  font-size: 40px;
+  width: 50px;
+  text-decoration: none;
+  margin-top:50px;
+  margin-left: 100px;
+           }
+.igname{
+  margin-left: 80px;
+  position: absolute;
+  margin-top: 30px;
+  color: orange;
+  font-weight: bold;
+
+}
+ 
+.fa-facebook {
+  background: darkblue;
+  color: white;
+  padding: 20px;
+  font-size: 40px;
+  width: 50px;
+  text-decoration: none;
+  margin-top:50px;
+  margin-left: 100px;
+        }
+.fbname{
+  margin-left: 270px;
+  position: absolute;
+  margin-top: 30px;
+  color: orange;
+  font-weight: bold;
+
+}
+.fa-twitter {
+  background: black;
+  color: white;
+  padding: 20px;
+  font-size: 40px;
+  width: 50px;
+  text-decoration: none;
+  margin-top:200px;
+  margin-left: 100px;
+}
+.xname{
+  margin-left: 500px;
+  position: absolute;
+  margin-top: 30px;
+  color: orange;
+  font-weight: bold;
+
+}
+.fa-phone {
+  background: green;
+  color: white;
+  padding: 20px;
+  font-size: 40px;
+  width: 50px;
+  text-decoration: none;
+  margin-top:200px;
+  margin-left: 100px;
+}
+.phonename{
+  margin-left: 680px;
+  position: absolute;
+  margin-top: 30px;
+  color: orange;
+  font-weight: bold;
+
+}
+
+.fa-pinterest {
+  background: red;
+  color: white;
+  padding: 20px;
+  font-size: 40px;
+  width: 50px;
+  text-decoration: none;
+  margin-top:200px;
+  margin-left: 100px;
+}
+.tkname{
+  margin-left: 880px;
+  position: absolute;
+  margin-top: 30px;
+  color: orange;
+  font-weight: bold;
+
+}
+
+ 
+      

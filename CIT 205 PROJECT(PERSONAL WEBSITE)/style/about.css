@@ -1,0 +1,134 @@
+body{
+	margin: 0;
+}
+.head{
+	background-color: #47372F;
+	margin-top: 0px;
+}
+
+.header1{
+	color: black;
+	float: left;
+	font-size: 12PX;
+
+}
+.nav{
+	color: orange;
+	float: right;
+	margin-top: 20px;
+	word-spacing: 25px;
+	margin-right: 10px;
+}
+.button {
+  background-color: orange;  
+  border-radius:20px ;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: #47372f; 
+  color:orange ; 
+  border: 1px solid;
+}
+
+.button1:hover {
+  background-color: orange;
+  color: white;
+}
+
+.button2 {
+  background-color: #47372f ; 
+  color: orange; 
+  border: 1px solid;
+}
+
+.button2:hover {
+  background-color: orange;
+  color: white;
+}
+
+.button3 {
+  background-color:  #47372f; 
+  color: orange; 
+  border: 1px solid;
+}
+
+.button3:hover {
+  background-color: orange;
+  color: white;
+}
+
+.button4 {
+  background-color:  #47372f;
+  color: orange;
+  border: 1px solid ;
+}
+
+.button4:hover {
+  background-color: orange;
+  color: white;
+}
+
+.button5 {
+	background-color:  #47372f; 
+  color: orange; 
+  border: 1px solid;
+  
+}
+
+.button5:hover {
+  background-color: orange;
+  color: white;
+}
+
+.folio{
+	color: orange;
+}
+.imgmain{
+	position: absolute;
+	margin-top: 80px;
+	width: 600px;
+	float: right;
+
+
+}
+.main img{
+  margin-left: 500px;
+	
+  }
+.aboutme{
+	position: absolute;
+	width: 500px;
+	margin-top: 150px;
+}
+.aboutme{
+  background-color: orange; 
+  color: white;
+  padding: 10px 20px 20px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-top: 200px;
+  
+}
+.about{
+	background-color: #47372f; 
+  color:orange ; 
+  border: 1px solid;
+}
+.about:hover{
+	background-color: orange;
+  color: white;
+}
